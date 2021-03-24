@@ -26,7 +26,7 @@ The app built with Node.js and allow AES encryption/decryption using HTTP reques
 
 Encrypt a "message" with "secret"
 
-```http://localhost:4000/encrypt?secret=8650&message=i-love-you```
+```http://localhost:4000/encrypt?secret=8650&message=This-is-demo-for-revmedia```
 
 Decrypt a "message" with "secret"
 
@@ -39,7 +39,7 @@ Encrypt a "message" with "secret"
 ```shell
 curl -G 'http://localhost:4000/encrypt' \
 -d secret=8650 \
--d message=i-love-you
+-d message=This-is-demo-for-revmedia
 ```
 
 Decrypt a "message" with "secret"
