@@ -2,16 +2,13 @@
 
 ![](kubernetes.png)
 
-## Deploy on Kubernetes (GKE)
 
-
-[Read here](https://medium.com/@onufrienkos/deploying-a-node-js-app-to-the-google-kubernetes-engine-gke-d6af1f3a954c)
 
 
 ## Run
 
 ```shell
-git clone https://github.com/sonufrienko/gke-simple-app
+git clone https://github.com/WajidAli3301/nodejs-demo.git
 cd gke-simple-app/app
 npm i
 npm run start
