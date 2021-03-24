@@ -9,7 +9,7 @@
 
 ```shell
 git clone https://github.com/WajidAli3301/nodejs-demo.git
-cd gke-simple-app/app
+cd gke-simple-app-master
 npm i
 npm run start
 ```
