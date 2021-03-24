@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Sergey Onufrienko",
-  "license": "MIT",
+  "author": "Wajid Ali",
+  "license": "Ali",
   "dependencies": {
     "express": "^4.17.1"
   }
